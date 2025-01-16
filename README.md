@@ -73,13 +73,3 @@ El proyecto está organizado de la siguiente manera:
    ```
 
 ---
-
-
-
-### Instrucciones para usar este archivo:
-1. Copia el contenido anterior.
-2. Crea un archivo llamado `README.md` en la raíz de tu proyecto.
-3. Pega el contenido en el archivo `README.md`.
-4. Personaliza los detalles que necesites (por ejemplo, el enlace del repositorio o las capturas de pantalla).
-
-¡Y eso es todo! Ahora tienes un archivo `README.md` profesional y bien estructurado para tu proyecto. 😊 Si necesitas más ayuda, ¡no dudes en preguntar! 🚀
