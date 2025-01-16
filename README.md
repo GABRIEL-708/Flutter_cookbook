@@ -1,6 +1,6 @@
 ¡Claro! Aquí tienes el contenido en formato **Markdown (`.md`)**, listo para copiar y pegar en tu archivo `README.md`:
 
-```markdown
+
 # 📘 Flutter Cookbook Práctica
 
 ¡Hola! 👋 Mi nombre es **Luis Gabriel Canul Canche**. Actualmente estudio la carrera de **Ingeniería en Desarrollo de Software** en el **5°A** de la **Universidad Tecnológica Metropolitana de Mérida, Yucatán**. Este proyecto forma parte de una práctica para aprender y explorar **Flutter** utilizando el **Cookbook de Flutter**.
